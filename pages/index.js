@@ -19,7 +19,7 @@ export default function Home() {
           </h1>
           <p className="text-xl md:text-2xl text-gray-300 mb-10">
             Hackeamos tu promedio. Discretamente. 
-            TECSUP, SENATI, UTP, UNSA, PUCP... nadie se salva.
+            TECSUP, SENATI, UTP, UNSA, UCSM... nadie se salva.
           </p>
 
           <div className="flex justify-center gap-6 flex-wrap">
